@@ -10,4 +10,4 @@ O repositório está subdividodo em:
 - [DATAS](https://github.com/LuuhMitre/workshop/blob/db2f29c75d421f53bcff4dd783e1839d29cbcc93/datas.sql) - Esta etapa possui os dados fictícios para a inserção ao banco de dados
 - [QUERIES](https://github.com/LuuhMitre/workshop/blob/db2f29c75d421f53bcff4dd783e1839d29cbcc93/queries.sql) - Esta etapa possui queries de teste realizadas com os dados persistidos
 
-![Alt text](image.png)
+![Alt text](workshop_diagram.png)
